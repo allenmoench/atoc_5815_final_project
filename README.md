@@ -33,3 +33,6 @@ MIT license
 Michael Moench
 University of Colorado Masters of the Environment Program
 almo1024@colorado.edu
+
+### Data source
+University of Colorado ATOC Weather Network, CU Boulder Campus. https://sundowner.colorado.edu/weather/atoc1/
