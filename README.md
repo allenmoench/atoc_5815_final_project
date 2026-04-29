@@ -8,6 +8,10 @@ Clone repository to VS code (this will change to pip install once the work is do
 
 #### Quick Start:
 See example notebooks temp_plot and humidity_plot for use of different scripts
+CLI commands: 
+thresh: tests a thresshold search
+timeseries: plots a timeseries
+anomaly: plots anomalies
 
 #### Features / capabilities:
 * Given input of a desired start and end date, the script will output a combined dataframe containing all records between the start and end date.
